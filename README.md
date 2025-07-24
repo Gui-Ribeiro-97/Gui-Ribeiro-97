@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gui-Ribeiro-97&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Gui-Ribeiro-97&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak stats" />
   <img src="https://github-profile-trophy.vercel.app?username=Gui-Ribeiro-97&theme=dracula&column=-1&row=1" height="150" alt="trophy graph" />
 </div>
 
